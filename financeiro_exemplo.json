@@ -1,0 +1,26 @@
+{
+    "ganhos": [
+        {
+            "id": 1,
+            "Descricao": "Salario",
+            "Valor": 1000.0
+        },
+        {
+            "id": 2,
+            "Descricao": "Adiantamento",
+            "Valor": 500.0
+        }
+    ],
+    "despesas": [
+        {
+            "id": 1,
+            "Descricao": "Conta De Luz",
+            "Valor": 150.0
+        },
+        {
+            "id": 2,
+            "Descricao": "Conta De \u00c1gua",
+            "Valor": 100.0
+        }
+    ]
+}

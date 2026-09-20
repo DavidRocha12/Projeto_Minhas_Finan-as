@@ -1,0 +1,206 @@
+{
+    "ganhos": [
+        {
+            "id": 1,
+            "Descricao": "Adiantamento",
+            "Valor": 1309.78
+        },
+        {
+            "id": 3,
+            "Descricao": "Adiantamento Branquela",
+            "Valor": 958.24
+        },
+        {
+            "id": 5,
+            "Descricao": "Salario Branquela",
+            "Valor": 1060.0
+        },
+        {
+            "id": 6,
+            "Descricao": "Salario David",
+            "Valor": 1487.0
+        }
+    ],
+    "despesas": [
+        {
+            "id": 1,
+            "Descricao": "Moto Factor",
+            "Valor": 690.89
+        },
+        {
+            "id": 2,
+            "Descricao": "Internet Desktop",
+            "Valor": 114.99
+        },
+        {
+            "id": 3,
+            "Descricao": "Conta De Luz",
+            "Valor": 280.31
+        },
+        {
+            "id": 4,
+            "Descricao": "Mistura, Fruta, Cebola, Tempero E Batata Palha",
+            "Valor": 185.41
+        },
+        {
+            "id": 5,
+            "Descricao": "Serrinha De Cortar Ferro",
+            "Valor": 8.9
+        },
+        {
+            "id": 6,
+            "Descricao": "10 Lt De Gasolina",
+            "Valor": 61.7
+        },
+        {
+            "id": 7,
+            "Descricao": "Superbonde",
+            "Valor": 7.0
+        },
+        {
+            "id": 8,
+            "Descricao": "Compras Para Torta De Frango",
+            "Valor": 91.75
+        },
+        {
+            "id": 9,
+            "Descricao": "Saco De Lixo",
+            "Valor": 9.0
+        },
+        {
+            "id": 10,
+            "Descricao": "Fita Isolante, Arame Galvanizado",
+            "Valor": 12.5
+        },
+        {
+            "id": 11,
+            "Descricao": "Ginpass Academia",
+            "Valor": 54.9
+        },
+        {
+            "id": 12,
+            "Descricao": "Ra\u00e7\u00e3o Para Gatos",
+            "Valor": 27.0
+        },
+        {
+            "id": 13,
+            "Descricao": "Pe\u00e7a Para Alternador Gol",
+            "Valor": 84.0
+        },
+        {
+            "id": 14,
+            "Descricao": "Compras Mercado",
+            "Valor": 15.14
+        },
+        {
+            "id": 15,
+            "Descricao": "P\u00e3o Doce",
+            "Valor": 10.0
+        },
+        {
+            "id": 17,
+            "Descricao": " Inje\u00e7\u00e3o Branquela, Cera De Cabelo",
+            "Valor": 36.58
+        },
+        {
+            "id": 18,
+            "Descricao": "20 Lt De Gasolina",
+            "Valor": 123.4
+        },
+        {
+            "id": 20,
+            "Descricao": "Compras Supermercado",
+            "Valor": 133.64
+        },
+        {
+            "id": 22,
+            "Descricao": "Despesa Dia 31 Agosto",
+            "Valor": 709.92
+        },
+        {
+            "id": 24,
+            "Descricao": "Vinho E Refrigerante",
+            "Valor": 23.27
+        },
+        {
+            "id": 25,
+            "Descricao": "Gaz De Cozinha",
+            "Valor": 115.0
+        },
+        {
+            "id": 26,
+            "Descricao": "Mercado Pago Branquela",
+            "Valor": 249.0
+        },
+        {
+            "id": 27,
+            "Descricao": "Cart\u00e3o Ita\u00fa",
+            "Valor": 158.75
+        },
+        {
+            "id": 28,
+            "Descricao": "Nubank Branquela",
+            "Valor": 97.18
+        },
+        {
+            "id": 29,
+            "Descricao": "Garagem Diego",
+            "Valor": 150.0
+        },
+        {
+            "id": 30,
+            "Descricao": "Mercado Pago",
+            "Valor": 179.46
+        },
+        {
+            "id": 31,
+            "Descricao": "Caixinha",
+            "Valor": 100.0
+        },
+        {
+            "id": 32,
+            "Descricao": "Empr\u00e9stimo Itau 12X",
+            "Valor": 484.33
+        },
+        {
+            "id": 33,
+            "Descricao": "Seguro Suhai",
+            "Valor": 66.67
+        },
+        {
+            "id": 34,
+            "Descricao": "Conta De \u00c1gua",
+            "Valor": 155.05
+        },
+        {
+            "id": 35,
+            "Descricao": "Chave E Parafuso Carro",
+            "Valor": 37.0
+        },
+        {
+            "id": 36,
+            "Descricao": "Combust\u00edvel Moto",
+            "Valor": 54.92
+        },
+        {
+            "id": 37,
+            "Descricao": "Bomba D'Agua Carro",
+            "Valor": 104.44
+        },
+        {
+            "id": 38,
+            "Descricao": "Vuoncard",
+            "Valor": 41.2
+        },
+        {
+            "id": 39,
+            "Descricao": "Pastel Teste",
+            "Valor": 47.73
+        },
+        {
+            "id": 40,
+            "Descricao": "Temperos E Algod\u00e3o",
+            "Valor": 23.52
+        }
+    ]
+}

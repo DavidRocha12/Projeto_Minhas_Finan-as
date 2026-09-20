@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários e de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar o banco de dados real (para não vazar suas finanças)
+financeiro.json
+
+# Ignorar arquivos de configuração de sistema operacional (Mac/Windows)
+.DS_Store
+Thumbs.db
