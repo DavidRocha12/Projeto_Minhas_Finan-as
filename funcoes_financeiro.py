@@ -92,13 +92,13 @@ def apagar_item_lista(tipo):
                 else:
                     print("Id inválido, verifique o Id correto!")
             elif escolha_dados[0] in "Nn":
-                os.system("clear")
+                os.system('cls' if os.name == 'nt' else 'clear')
                 print("Voltando para o menu principal!")
             else:
-                os.system("clear")
+                os.system('cls' if os.name == 'nt' else 'clear')
                 print("Digite apenas Sim ou Não!")
         except IndexError:
-            os.system("clear")
+            os.system('cls' if os.name == 'nt' else 'clear')
             print("Nada foi informado! \nVoltando ao Menu!")
     else:
         print("Não existe nada a ser apagado!")

@@ -43,7 +43,7 @@ while True:
         print()
         continue
 
-    os.system("clear")
+    os.system('cls' if os.name == 'nt' else 'clear')
     if escolha == 1:
         try:
             print("=" * 30)
